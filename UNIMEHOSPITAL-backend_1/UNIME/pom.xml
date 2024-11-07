@@ -96,6 +96,7 @@
 	</dependencies>
 
 	<build>
+		<finalName>UNIME</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
